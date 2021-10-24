@@ -679,7 +679,7 @@ exports.default = _App2.default;
 if (typeof document !== 'undefined') {
     var renderMethod =  false ? _reactDom2.default.render : _reactDom2.default.hydrate || _reactDom2.default.render;
     var render = function render(Comp) {
-        renderMethod(_react2.default.createElement(Comp, null), document.getElementById('root'));
+        renderMethod(_react2.default.createElement(Comp, { innerWidth: document.innerWidth }), document.getElementById('root'));
     };
 
     // Render!
@@ -721,60 +721,63 @@ __webpack_require__(28);
 
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 
-//
-var App = function App() {
+var App = function App(props) {
     return _react2.default.createElement(
         _reactStatic.Router,
         null,
         _react2.default.createElement(
             'table',
-            { style: { width: '1280px', marginLeft: 'auto', marginRight: 'auto' } },
+            { style: { width: Math.min(props.innerWidth, 1280) + 'px', marginLeft: 'auto', marginRight: 'auto' } },
             _react2.default.createElement(
-                'tr',
+                'tbody',
                 null,
                 _react2.default.createElement(
-                    'td',
+                    'tr',
                     null,
                     _react2.default.createElement(
-                        _reactHelmet.Helmet,
+                        'td',
                         null,
                         _react2.default.createElement(
-                            'title',
+                            _reactHelmet.Helmet,
                             null,
-                            'beatfix'
-                        ),
-                        _react2.default.createElement('link', { rel: 'icon',
-                            type: 'image/png',
-                            href: './favicon.png' })
-                    ),
-                    _react2.default.createElement(
-                        'nav',
-                        null,
-                        _react2.default.createElement(
-                            _reactStatic.Link,
-                            { exact: true, to: '/' },
-                            'Home'
+                            _react2.default.createElement(
+                                'title',
+                                null,
+                                'beatfix'
+                            ),
+                            _react2.default.createElement('link', { rel: 'icon',
+                                type: 'image/png',
+                                href: './favicon.png' })
                         ),
                         _react2.default.createElement(
-                            _reactStatic.Link,
-                            { to: '/features' },
-                            'Features'
+                            'nav',
+                            null,
+                            _react2.default.createElement(
+                                _reactStatic.Link,
+                                { exact: true, to: '/' },
+                                'Home'
+                            ),
+                            _react2.default.createElement(
+                                _reactStatic.Link,
+                                { to: '/features' },
+                                'Features'
+                            ),
+                            _react2.default.createElement(
+                                _reactStatic.Link,
+                                { to: '/usage' },
+                                'Usage'
+                            ),
+                            _react2.default.createElement(
+                                _reactStatic.Link,
+                                { to: '/about' },
+                                'About'
+                            )
                         ),
                         _react2.default.createElement(
-                            _reactStatic.Link,
-                            { to: '/usage' },
-                            'Usage'
-                        ),
-                        _react2.default.createElement(
-                            _reactStatic.Link,
-                            { to: '/about' },
-                            'About'
+                            'div',
+                            { className: 'content' },
+                            _react2.default.createElement(_reactStaticRoutes2.default, null)
                         )
-                    ),
-                    _react2.default.createElement(
-                        'div',
-                        { className: 'content' },
-                        _react2.default.createElement(_reactStaticRoutes2.default, null)
                     )
                 )
             )
@@ -1666,7 +1669,7 @@ module.exports = require("hoist-non-react-statics");
 /* 25 */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__.p + "static/logo.a831bac9.png";
+module.exports = __webpack_require__.p + "static/logo.a2593bdd.png";
 
 /***/ }),
 /* 26 */
@@ -1804,4 +1807,4 @@ function toComment(sourceMap) {
 /***/ })
 /******/ ]);
 });
-//# sourceMappingURL=static.dd1ddd13.js.map
+//# sourceMappingURL=static.ac1edc07.js.map

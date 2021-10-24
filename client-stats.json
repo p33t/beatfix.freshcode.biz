@@ -2,13 +2,13 @@
   "errors": [],
   "warnings": [],
   "version": "3.12.0",
-  "hash": "8a96dfa5f967c8201015",
-  "time": 3745,
+  "hash": "6a4e316993b8be0d407e",
+  "time": 3725,
   "publicPath": "/",
   "assetsByChunkName": {
     "src/containers/Home": [
-      "templates/src/containers/Home.16343549.js",
-      "templates/src/containers/Home.16343549.js.map"
+      "templates/src/containers/Home.2ee461ae.js",
+      "templates/src/containers/Home.2ee461ae.js.map"
     ],
     "src/containers/About": [
       "templates/src/containers/About.f2c93edc.js",
@@ -27,20 +27,20 @@
       "templates/src/containers/404.23992d53.js.map"
     ],
     "main": [
-      "main.d32ce185.js",
-      "styles.8a96dfa5.css",
-      "main.d32ce185.js.map",
-      "styles.8a96dfa5.css.map"
+      "main.c1aaa2f2.js",
+      "styles.6a4e3169.css",
+      "main.c1aaa2f2.js.map",
+      "styles.6a4e3169.css.map"
     ],
     "bootstrap": [
-      "bootstrap.40effcc3.js",
-      "bootstrap.40effcc3.js.map"
+      "bootstrap.abc48685.js",
+      "bootstrap.abc48685.js.map"
     ]
   },
   "assets": [
     {
-      "name": "static/logo.a831bac9.png",
-      "size": 15137,
+      "name": "static/logo.a2593bdd.png",
+      "size": 18684,
       "chunks": [],
       "chunkNames": [],
       "emitted": true
@@ -53,7 +53,7 @@
       "emitted": true
     },
     {
-      "name": "templates/src/containers/Home.16343549.js",
+      "name": "templates/src/containers/Home.2ee461ae.js",
       "size": 1036,
       "chunks": [
         0
@@ -108,8 +108,8 @@
       "emitted": true
     },
     {
-      "name": "main.d32ce185.js",
-      "size": 275187,
+      "name": "main.c1aaa2f2.js",
+      "size": 275278,
       "chunks": [
         5
       ],
@@ -120,7 +120,7 @@
       "isOverSizeLimit": true
     },
     {
-      "name": "bootstrap.40effcc3.js",
+      "name": "bootstrap.abc48685.js",
       "size": 1622,
       "chunks": [
         6
@@ -131,7 +131,7 @@
       "emitted": true
     },
     {
-      "name": "styles.8a96dfa5.css",
+      "name": "styles.6a4e3169.css",
       "size": 413,
       "chunks": [
         5
@@ -142,7 +142,7 @@
       "emitted": true
     },
     {
-      "name": "templates/src/containers/Home.16343549.js.map",
+      "name": "templates/src/containers/Home.2ee461ae.js.map",
       "size": 5055,
       "chunks": [
         0
@@ -197,8 +197,8 @@
       "emitted": true
     },
     {
-      "name": "main.d32ce185.js.map",
-      "size": 1499258,
+      "name": "main.c1aaa2f2.js.map",
+      "size": 1499811,
       "chunks": [
         5
       ],
@@ -208,7 +208,7 @@
       "emitted": true
     },
     {
-      "name": "styles.8a96dfa5.css.map",
+      "name": "styles.6a4e3169.css.map",
       "size": 96,
       "chunks": [
         5
@@ -219,7 +219,7 @@
       "emitted": true
     },
     {
-      "name": "bootstrap.40effcc3.js.map",
+      "name": "bootstrap.abc48685.js.map",
       "size": 14696,
       "chunks": [
         6
@@ -238,12 +238,12 @@
         5
       ],
       "assets": [
-        "bootstrap.40effcc3.js",
-        "bootstrap.40effcc3.js.map",
-        "main.d32ce185.js",
-        "styles.8a96dfa5.css",
-        "main.d32ce185.js.map",
-        "styles.8a96dfa5.css.map"
+        "bootstrap.abc48685.js",
+        "bootstrap.abc48685.js.map",
+        "main.c1aaa2f2.js",
+        "styles.6a4e3169.css",
+        "main.c1aaa2f2.js.map",
+        "styles.6a4e3169.css.map"
       ],
       "isOverSizeLimit": true
     }
@@ -260,10 +260,10 @@
         "src/containers/Home"
       ],
       "files": [
-        "templates/src/containers/Home.16343549.js",
-        "templates/src/containers/Home.16343549.js.map"
+        "templates/src/containers/Home.2ee461ae.js",
+        "templates/src/containers/Home.2ee461ae.js.map"
       ],
-      "hash": "163435494c8ff948ccc3",
+      "hash": "2ee461ae6b0b155a3fdb",
       "parents": [
         5
       ],
@@ -330,7 +330,7 @@
             0
           ],
           "assets": [
-            "static/logo.a831bac9.png"
+            "static/logo.a2593bdd.png"
           ],
           "issuer": "/home/pwl/work/assembla/beatfix.live/www/node_modules/babel-loader/lib/index.js??ref--0-oneOf-0-0!/home/pwl/work/assembla/beatfix.live/www/src/containers/Home.js",
           "issuerId": 50,
@@ -353,7 +353,7 @@
           "providedExports": null,
           "optimizationBailout": [],
           "depth": 4,
-          "source": "module.exports = __webpack_public_path__ + \"static/logo.a831bac9.png\";"
+          "source": "module.exports = __webpack_public_path__ + \"static/logo.a2593bdd.png\";"
         },
         {
           "id": 139,
@@ -492,9 +492,9 @@
             3
           ],
           "assets": [],
-          "issuer": "/home/pwl/work/assembla/beatfix.live/www/node_modules/babel-loader/lib/index.js??ref--0-oneOf-0-0!/home/pwl/work/assembla/beatfix.live/www/src/containers/Features.js",
-          "issuerId": 51,
-          "issuerName": "./src/containers/Features.js",
+          "issuer": "/home/pwl/work/assembla/beatfix.live/www/node_modules/babel-loader/lib/index.js??ref--0-oneOf-0-0!/home/pwl/work/assembla/beatfix.live/www/src/containers/About.js",
+          "issuerId": 53,
+          "issuerName": "./src/containers/About.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -668,9 +668,9 @@
             3
           ],
           "assets": [],
-          "issuer": "/home/pwl/work/assembla/beatfix.live/www/node_modules/babel-loader/lib/index.js??ref--0-oneOf-0-0!/home/pwl/work/assembla/beatfix.live/www/src/containers/Features.js",
-          "issuerId": 51,
-          "issuerName": "./src/containers/Features.js",
+          "issuer": "/home/pwl/work/assembla/beatfix.live/www/node_modules/babel-loader/lib/index.js??ref--0-oneOf-0-0!/home/pwl/work/assembla/beatfix.live/www/src/containers/About.js",
+          "issuerId": 53,
+          "issuerName": "./src/containers/About.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -806,9 +806,9 @@
             3
           ],
           "assets": [],
-          "issuer": "/home/pwl/work/assembla/beatfix.live/www/node_modules/babel-loader/lib/index.js??ref--0-oneOf-0-0!/home/pwl/work/assembla/beatfix.live/www/src/containers/Features.js",
-          "issuerId": 51,
-          "issuerName": "./src/containers/Features.js",
+          "issuer": "/home/pwl/work/assembla/beatfix.live/www/node_modules/babel-loader/lib/index.js??ref--0-oneOf-0-0!/home/pwl/work/assembla/beatfix.live/www/src/containers/About.js",
+          "issuerId": 53,
+          "issuerName": "./src/containers/About.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -947,17 +947,17 @@
       "initial": true,
       "entry": false,
       "extraAsync": false,
-      "size": 523405,
+      "size": 523769,
       "names": [
         "main"
       ],
       "files": [
-        "main.d32ce185.js",
-        "styles.8a96dfa5.css",
-        "main.d32ce185.js.map",
-        "styles.8a96dfa5.css.map"
+        "main.c1aaa2f2.js",
+        "styles.6a4e3169.css",
+        "main.c1aaa2f2.js.map",
+        "styles.6a4e3169.css.map"
       ],
-      "hash": "d32ce185388f193bb842",
+      "hash": "c1aaa2f29481f65e45b8",
       "parents": [
         6
       ],
@@ -1748,9 +1748,9 @@
             5
           ],
           "assets": [],
-          "issuer": "/home/pwl/work/assembla/beatfix.live/www/node_modules/history/createBrowserHistory.js",
-          "issuerId": 119,
-          "issuerName": "./node_modules/history/createBrowserHistory.js",
+          "issuer": "/home/pwl/work/assembla/beatfix.live/www/node_modules/history/createHashHistory.js",
+          "issuerId": 121,
+          "issuerName": "./node_modules/history/createHashHistory.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -3056,9 +3056,9 @@
             5
           ],
           "assets": [],
-          "issuer": "/home/pwl/work/assembla/beatfix.live/www/node_modules/history/es/createHashHistory.js",
-          "issuerId": 66,
-          "issuerName": "./node_modules/history/es/createHashHistory.js",
+          "issuer": "/home/pwl/work/assembla/beatfix.live/www/node_modules/history/es/createBrowserHistory.js",
+          "issuerId": 65,
+          "issuerName": "./node_modules/history/es/createBrowserHistory.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -3408,9 +3408,9 @@
             5
           ],
           "assets": [],
-          "issuer": "/home/pwl/work/assembla/beatfix.live/www/node_modules/react-static/lib/client/components/SiteData.js",
-          "issuerId": 114,
-          "issuerName": "./node_modules/react-static/lib/client/components/SiteData.js",
+          "issuer": "/home/pwl/work/assembla/beatfix.live/www/node_modules/react-static/lib/client/components/RouteData.js",
+          "issuerId": 92,
+          "issuerName": "./node_modules/react-static/lib/client/components/RouteData.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -3748,9 +3748,9 @@
             5
           ],
           "assets": [],
-          "issuer": "/home/pwl/work/assembla/beatfix.live/www/node_modules/history/es/createHashHistory.js",
-          "issuerId": 66,
-          "issuerName": "./node_modules/history/es/createHashHistory.js",
+          "issuer": "/home/pwl/work/assembla/beatfix.live/www/node_modules/history/es/createBrowserHistory.js",
+          "issuerId": 65,
+          "issuerName": "./node_modules/history/es/createBrowserHistory.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -4489,9 +4489,9 @@
             5
           ],
           "assets": [],
-          "issuer": "/home/pwl/work/assembla/beatfix.live/www/node_modules/history/createBrowserHistory.js",
-          "issuerId": 119,
-          "issuerName": "./node_modules/history/createBrowserHistory.js",
+          "issuer": "/home/pwl/work/assembla/beatfix.live/www/node_modules/history/createHashHistory.js",
+          "issuerId": 121,
+          "issuerName": "./node_modules/history/createHashHistory.js",
           "failed": false,
           "errors": 0,
           "warnings": 0,
@@ -4715,7 +4715,7 @@
           "name": "./src/index.js",
           "index": 0,
           "index2": 140,
-          "size": 923,
+          "size": 954,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -4735,7 +4735,7 @@
           "providedExports": null,
           "optimizationBailout": [],
           "depth": 0,
-          "source": "'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n    value: true\n});\n\nvar _react = require('react');\n\nvar _react2 = _interopRequireDefault(_react);\n\nvar _reactDom = require('react-dom');\n\nvar _reactDom2 = _interopRequireDefault(_reactDom);\n\nvar _App = require('./App');\n\nvar _App2 = _interopRequireDefault(_App);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\n// Export your top level component as JSX (for static rendering)\nexports.default = _App2.default;\n\n// Render your app\n\n\n// Your top level component\n\nif (typeof document !== 'undefined') {\n    var renderMethod = module.hot ? _reactDom2.default.render : _reactDom2.default.hydrate || _reactDom2.default.render;\n    var render = function render(Comp) {\n        renderMethod(_react2.default.createElement(Comp, null), document.getElementById('root'));\n    };\n\n    // Render!\n    render(_App2.default);\n}"
+          "source": "'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n    value: true\n});\n\nvar _react = require('react');\n\nvar _react2 = _interopRequireDefault(_react);\n\nvar _reactDom = require('react-dom');\n\nvar _reactDom2 = _interopRequireDefault(_reactDom);\n\nvar _App = require('./App');\n\nvar _App2 = _interopRequireDefault(_App);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\n// Export your top level component as JSX (for static rendering)\nexports.default = _App2.default;\n\n// Render your app\n\n\n// Your top level component\n\nif (typeof document !== 'undefined') {\n    var renderMethod = module.hot ? _reactDom2.default.render : _reactDom2.default.hydrate || _reactDom2.default.render;\n    var render = function render(Comp) {\n        renderMethod(_react2.default.createElement(Comp, { innerWidth: document.innerWidth }), document.getElementById('root'));\n    };\n\n    // Render!\n    render(_App2.default);\n}"
         },
         {
           "id": 56,
@@ -4933,7 +4933,7 @@
           "name": "./src/App.js",
           "index": 8,
           "index2": 139,
-          "size": 2859,
+          "size": 3192,
           "cacheable": true,
           "built": true,
           "optional": false,
@@ -4963,7 +4963,7 @@
           "providedExports": null,
           "optimizationBailout": [],
           "depth": 1,
-          "source": "'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n    value: true\n});\n\nvar _react = require('react');\n\nvar _react2 = _interopRequireDefault(_react);\n\nvar _reactStatic = require('react-static');\n\nvar _reactHotLoader = require('react-hot-loader');\n\nvar _reactHelmet = require('react-helmet');\n\nvar _reactStaticRoutes = require('react-static-routes');\n\nvar _reactStaticRoutes2 = _interopRequireDefault(_reactStaticRoutes);\n\nrequire('./app.css');\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\n//\nvar App = function App() {\n    return _react2.default.createElement(\n        _reactStatic.Router,\n        null,\n        _react2.default.createElement(\n            'table',\n            { style: { width: '1280px', marginLeft: 'auto', marginRight: 'auto' } },\n            _react2.default.createElement(\n                'tr',\n                null,\n                _react2.default.createElement(\n                    'td',\n                    null,\n                    _react2.default.createElement(\n                        _reactHelmet.Helmet,\n                        null,\n                        _react2.default.createElement(\n                            'title',\n                            null,\n                            'beatfix'\n                        ),\n                        _react2.default.createElement('link', { rel: 'icon',\n                            type: 'image/png',\n                            href: './favicon.png' })\n                    ),\n                    _react2.default.createElement(\n                        'nav',\n                        null,\n                        _react2.default.createElement(\n                            _reactStatic.Link,\n                            { exact: true, to: '/' },\n                            'Home'\n                        ),\n                        _react2.default.createElement(\n                            _reactStatic.Link,\n                            { to: '/features' },\n                            'Features'\n                        ),\n                        _react2.default.createElement(\n                            _reactStatic.Link,\n                            { to: '/usage' },\n                            'Usage'\n                        ),\n                        _react2.default.createElement(\n                            _reactStatic.Link,\n                            { to: '/about' },\n                            'About'\n                        )\n                    ),\n                    _react2.default.createElement(\n                        'div',\n                        { className: 'content' },\n                        _react2.default.createElement(_reactStaticRoutes2.default, null)\n                    )\n                )\n            )\n        )\n    );\n};\n\nexports.default = (0, _reactHotLoader.hot)(module)(App);"
+          "source": "'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n    value: true\n});\n\nvar _react = require('react');\n\nvar _react2 = _interopRequireDefault(_react);\n\nvar _reactStatic = require('react-static');\n\nvar _reactHotLoader = require('react-hot-loader');\n\nvar _reactHelmet = require('react-helmet');\n\nvar _reactStaticRoutes = require('react-static-routes');\n\nvar _reactStaticRoutes2 = _interopRequireDefault(_reactStaticRoutes);\n\nrequire('./app.css');\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nvar App = function App(props) {\n    return _react2.default.createElement(\n        _reactStatic.Router,\n        null,\n        _react2.default.createElement(\n            'table',\n            { style: { width: Math.min(props.innerWidth, 1280) + 'px', marginLeft: 'auto', marginRight: 'auto' } },\n            _react2.default.createElement(\n                'tbody',\n                null,\n                _react2.default.createElement(\n                    'tr',\n                    null,\n                    _react2.default.createElement(\n                        'td',\n                        null,\n                        _react2.default.createElement(\n                            _reactHelmet.Helmet,\n                            null,\n                            _react2.default.createElement(\n                                'title',\n                                null,\n                                'beatfix'\n                            ),\n                            _react2.default.createElement('link', { rel: 'icon',\n                                type: 'image/png',\n                                href: './favicon.png' })\n                        ),\n                        _react2.default.createElement(\n                            'nav',\n                            null,\n                            _react2.default.createElement(\n                                _reactStatic.Link,\n                                { exact: true, to: '/' },\n                                'Home'\n                            ),\n                            _react2.default.createElement(\n                                _reactStatic.Link,\n                                { to: '/features' },\n                                'Features'\n                            ),\n                            _react2.default.createElement(\n                                _reactStatic.Link,\n                                { to: '/usage' },\n                                'Usage'\n                            ),\n                            _react2.default.createElement(\n                                _reactStatic.Link,\n                                { to: '/about' },\n                                'About'\n                            )\n                        ),\n                        _react2.default.createElement(\n                            'div',\n                            { className: 'content' },\n                            _react2.default.createElement(_reactStaticRoutes2.default, null)\n                        )\n                    )\n                )\n            )\n        )\n    );\n};\n\nexports.default = (0, _reactHotLoader.hot)(module)(App);"
         },
         {
           "id": 62,
@@ -7923,10 +7923,10 @@
         "bootstrap"
       ],
       "files": [
-        "bootstrap.40effcc3.js",
-        "bootstrap.40effcc3.js.map"
+        "bootstrap.abc48685.js",
+        "bootstrap.abc48685.js.map"
       ],
-      "hash": "40effcc34a7a34378993",
+      "hash": "abc48685fb1d936f2417",
       "parents": [],
       "modules": [],
       "filteredModules": 0,
@@ -8720,9 +8720,9 @@
         5
       ],
       "assets": [],
-      "issuer": "/home/pwl/work/assembla/beatfix.live/www/node_modules/history/createBrowserHistory.js",
-      "issuerId": 119,
-      "issuerName": "./node_modules/history/createBrowserHistory.js",
+      "issuer": "/home/pwl/work/assembla/beatfix.live/www/node_modules/history/createHashHistory.js",
+      "issuerId": 121,
+      "issuerName": "./node_modules/history/createHashHistory.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -10028,9 +10028,9 @@
         5
       ],
       "assets": [],
-      "issuer": "/home/pwl/work/assembla/beatfix.live/www/node_modules/history/es/createHashHistory.js",
-      "issuerId": 66,
-      "issuerName": "./node_modules/history/es/createHashHistory.js",
+      "issuer": "/home/pwl/work/assembla/beatfix.live/www/node_modules/history/es/createBrowserHistory.js",
+      "issuerId": 65,
+      "issuerName": "./node_modules/history/es/createBrowserHistory.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -10380,9 +10380,9 @@
         5
       ],
       "assets": [],
-      "issuer": "/home/pwl/work/assembla/beatfix.live/www/node_modules/react-static/lib/client/components/SiteData.js",
-      "issuerId": 114,
-      "issuerName": "./node_modules/react-static/lib/client/components/SiteData.js",
+      "issuer": "/home/pwl/work/assembla/beatfix.live/www/node_modules/react-static/lib/client/components/RouteData.js",
+      "issuerId": 92,
+      "issuerName": "./node_modules/react-static/lib/client/components/RouteData.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -10720,9 +10720,9 @@
         5
       ],
       "assets": [],
-      "issuer": "/home/pwl/work/assembla/beatfix.live/www/node_modules/history/es/createHashHistory.js",
-      "issuerId": 66,
-      "issuerName": "./node_modules/history/es/createHashHistory.js",
+      "issuer": "/home/pwl/work/assembla/beatfix.live/www/node_modules/history/es/createBrowserHistory.js",
+      "issuerId": 65,
+      "issuerName": "./node_modules/history/es/createBrowserHistory.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -11461,9 +11461,9 @@
         5
       ],
       "assets": [],
-      "issuer": "/home/pwl/work/assembla/beatfix.live/www/node_modules/history/createBrowserHistory.js",
-      "issuerId": 119,
-      "issuerName": "./node_modules/history/createBrowserHistory.js",
+      "issuer": "/home/pwl/work/assembla/beatfix.live/www/node_modules/history/createHashHistory.js",
+      "issuerId": 121,
+      "issuerName": "./node_modules/history/createHashHistory.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -11922,7 +11922,7 @@
       "name": "./src/index.js",
       "index": 0,
       "index2": 140,
-      "size": 923,
+      "size": 954,
       "cacheable": true,
       "built": true,
       "optional": false,
@@ -11942,7 +11942,7 @@
       "providedExports": null,
       "optimizationBailout": [],
       "depth": 0,
-      "source": "'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n    value: true\n});\n\nvar _react = require('react');\n\nvar _react2 = _interopRequireDefault(_react);\n\nvar _reactDom = require('react-dom');\n\nvar _reactDom2 = _interopRequireDefault(_reactDom);\n\nvar _App = require('./App');\n\nvar _App2 = _interopRequireDefault(_App);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\n// Export your top level component as JSX (for static rendering)\nexports.default = _App2.default;\n\n// Render your app\n\n\n// Your top level component\n\nif (typeof document !== 'undefined') {\n    var renderMethod = module.hot ? _reactDom2.default.render : _reactDom2.default.hydrate || _reactDom2.default.render;\n    var render = function render(Comp) {\n        renderMethod(_react2.default.createElement(Comp, null), document.getElementById('root'));\n    };\n\n    // Render!\n    render(_App2.default);\n}"
+      "source": "'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n    value: true\n});\n\nvar _react = require('react');\n\nvar _react2 = _interopRequireDefault(_react);\n\nvar _reactDom = require('react-dom');\n\nvar _reactDom2 = _interopRequireDefault(_reactDom);\n\nvar _App = require('./App');\n\nvar _App2 = _interopRequireDefault(_App);\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\n// Export your top level component as JSX (for static rendering)\nexports.default = _App2.default;\n\n// Render your app\n\n\n// Your top level component\n\nif (typeof document !== 'undefined') {\n    var renderMethod = module.hot ? _reactDom2.default.render : _reactDom2.default.hydrate || _reactDom2.default.render;\n    var render = function render(Comp) {\n        renderMethod(_react2.default.createElement(Comp, { innerWidth: document.innerWidth }), document.getElementById('root'));\n    };\n\n    // Render!\n    render(_App2.default);\n}"
     },
     {
       "id": 56,
@@ -12140,7 +12140,7 @@
       "name": "./src/App.js",
       "index": 8,
       "index2": 139,
-      "size": 2859,
+      "size": 3192,
       "cacheable": true,
       "built": true,
       "optional": false,
@@ -12170,7 +12170,7 @@
       "providedExports": null,
       "optimizationBailout": [],
       "depth": 1,
-      "source": "'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n    value: true\n});\n\nvar _react = require('react');\n\nvar _react2 = _interopRequireDefault(_react);\n\nvar _reactStatic = require('react-static');\n\nvar _reactHotLoader = require('react-hot-loader');\n\nvar _reactHelmet = require('react-helmet');\n\nvar _reactStaticRoutes = require('react-static-routes');\n\nvar _reactStaticRoutes2 = _interopRequireDefault(_reactStaticRoutes);\n\nrequire('./app.css');\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\n//\nvar App = function App() {\n    return _react2.default.createElement(\n        _reactStatic.Router,\n        null,\n        _react2.default.createElement(\n            'table',\n            { style: { width: '1280px', marginLeft: 'auto', marginRight: 'auto' } },\n            _react2.default.createElement(\n                'tr',\n                null,\n                _react2.default.createElement(\n                    'td',\n                    null,\n                    _react2.default.createElement(\n                        _reactHelmet.Helmet,\n                        null,\n                        _react2.default.createElement(\n                            'title',\n                            null,\n                            'beatfix'\n                        ),\n                        _react2.default.createElement('link', { rel: 'icon',\n                            type: 'image/png',\n                            href: './favicon.png' })\n                    ),\n                    _react2.default.createElement(\n                        'nav',\n                        null,\n                        _react2.default.createElement(\n                            _reactStatic.Link,\n                            { exact: true, to: '/' },\n                            'Home'\n                        ),\n                        _react2.default.createElement(\n                            _reactStatic.Link,\n                            { to: '/features' },\n                            'Features'\n                        ),\n                        _react2.default.createElement(\n                            _reactStatic.Link,\n                            { to: '/usage' },\n                            'Usage'\n                        ),\n                        _react2.default.createElement(\n                            _reactStatic.Link,\n                            { to: '/about' },\n                            'About'\n                        )\n                    ),\n                    _react2.default.createElement(\n                        'div',\n                        { className: 'content' },\n                        _react2.default.createElement(_reactStaticRoutes2.default, null)\n                    )\n                )\n            )\n        )\n    );\n};\n\nexports.default = (0, _reactHotLoader.hot)(module)(App);"
+      "source": "'use strict';\n\nObject.defineProperty(exports, \"__esModule\", {\n    value: true\n});\n\nvar _react = require('react');\n\nvar _react2 = _interopRequireDefault(_react);\n\nvar _reactStatic = require('react-static');\n\nvar _reactHotLoader = require('react-hot-loader');\n\nvar _reactHelmet = require('react-helmet');\n\nvar _reactStaticRoutes = require('react-static-routes');\n\nvar _reactStaticRoutes2 = _interopRequireDefault(_reactStaticRoutes);\n\nrequire('./app.css');\n\nfunction _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }\n\nvar App = function App(props) {\n    return _react2.default.createElement(\n        _reactStatic.Router,\n        null,\n        _react2.default.createElement(\n            'table',\n            { style: { width: Math.min(props.innerWidth, 1280) + 'px', marginLeft: 'auto', marginRight: 'auto' } },\n            _react2.default.createElement(\n                'tbody',\n                null,\n                _react2.default.createElement(\n                    'tr',\n                    null,\n                    _react2.default.createElement(\n                        'td',\n                        null,\n                        _react2.default.createElement(\n                            _reactHelmet.Helmet,\n                            null,\n                            _react2.default.createElement(\n                                'title',\n                                null,\n                                'beatfix'\n                            ),\n                            _react2.default.createElement('link', { rel: 'icon',\n                                type: 'image/png',\n                                href: './favicon.png' })\n                        ),\n                        _react2.default.createElement(\n                            'nav',\n                            null,\n                            _react2.default.createElement(\n                                _reactStatic.Link,\n                                { exact: true, to: '/' },\n                                'Home'\n                            ),\n                            _react2.default.createElement(\n                                _reactStatic.Link,\n                                { to: '/features' },\n                                'Features'\n                            ),\n                            _react2.default.createElement(\n                                _reactStatic.Link,\n                                { to: '/usage' },\n                                'Usage'\n                            ),\n                            _react2.default.createElement(\n                                _reactStatic.Link,\n                                { to: '/about' },\n                                'About'\n                            )\n                        ),\n                        _react2.default.createElement(\n                            'div',\n                            { className: 'content' },\n                            _react2.default.createElement(_reactStaticRoutes2.default, null)\n                        )\n                    )\n                )\n            )\n        )\n    );\n};\n\nexports.default = (0, _reactHotLoader.hot)(module)(App);"
     },
     {
       "id": 62,
@@ -15122,9 +15122,9 @@
         3
       ],
       "assets": [],
-      "issuer": "/home/pwl/work/assembla/beatfix.live/www/node_modules/babel-loader/lib/index.js??ref--0-oneOf-0-0!/home/pwl/work/assembla/beatfix.live/www/src/containers/Features.js",
-      "issuerId": 51,
-      "issuerName": "./src/containers/Features.js",
+      "issuer": "/home/pwl/work/assembla/beatfix.live/www/node_modules/babel-loader/lib/index.js??ref--0-oneOf-0-0!/home/pwl/work/assembla/beatfix.live/www/src/containers/About.js",
+      "issuerId": 53,
+      "issuerName": "./src/containers/About.js",
       "failed": false,
       "errors": 0,
       "warnings": 0,
@@ -15178,7 +15178,7 @@
         0
       ],
       "assets": [
-        "static/logo.a831bac9.png"
+        "static/logo.a2593bdd.png"
       ],
       "issuer": "/home/pwl/work/assembla/beatfix.live/www/node_modules/babel-loader/lib/index.js??ref--0-oneOf-0-0!/home/pwl/work/assembla/beatfix.live/www/src/containers/Home.js",
       "issuerId": 50,
@@ -15201,7 +15201,7 @@
       "providedExports": null,
       "optimizationBailout": [],
       "depth": 4,
-      "source": "module.exports = __webpack_public_path__ + \"static/logo.a831bac9.png\";"
+      "source": "module.exports = __webpack_public_path__ + \"static/logo.a2593bdd.png\";"
     },
     {
       "id": 139,
